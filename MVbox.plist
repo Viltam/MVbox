@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.100.48.110/i/logo.png</string>
+					<string>http://47.100.237.48/public/static/share/images/dymicon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.huoyun.app</string>
+				<string>com.app.youjain</string>
 				<key>bundle-version</key>
 				<string>0.0.8/string>
 				<key>kind</key>
