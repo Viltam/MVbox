@@ -11,7 +11,7 @@
 			<key>kind</key>
 			<string>software-package</string>
 			<key>url</key>
-			<string>vop97.com:10/mvbox.ipa</string>
+			<string>http://vop97.com:10/mvbox.ipa</string>
 			</dict>
 			<dict>
 			<key>kind</key>
@@ -35,7 +35,7 @@
 			<key>bundle-identifier</key>
 				<string>com.app.youjain</string>
 			<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>0.0.2</string>
 			<key>kind</key>
 				<string>software</string>
 			<key>subtitle</key>
